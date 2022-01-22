@@ -39,14 +39,14 @@ while True:
     #選擇帳號
     while True:
         select = input(
-            '輸入0為自家域名(network@368media.com帳號),\n'
-            '輸入1為自家域名(network2@368media.com帳號),\n'
-            '輸入2為客戶域名(whitelabel@368media.com帳號),\n'
-            '輸入3為客戶域名(whitelabel2@368media.com帳號),\n'
-            '輸入4為客戶域名(whitelabel3@368media.com帳號),\n'
-            '輸入5為客戶域名(whitelabel4@368media.com帳號),\n'
-            '輸入6為客戶域名(whitelabel5@368media.com帳號),\n'
-            '輸入7為客戶域名(whitelabel6@368media.com帳號),\n'
+            '輸入0為自家域名(帳號),\n'
+            '輸入1為自家域名(帳號),\n'
+            '輸入2為客戶域名(帳號),\n'
+            '輸入3為客戶域名(帳號),\n'
+            '輸入4為客戶域名(帳號),\n'
+            '輸入5為客戶域名(帳號),\n'
+            '輸入6為客戶域名(帳號),\n'
+            '輸入7為客戶域名(帳號),\n'
         )
         select = select.strip(' \t\n\r')
         try:
